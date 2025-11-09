@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Tawhidul Islam Tuha</h1>
+<img src = "https://media.licdn.com/dms/image/v2/D4E16AQGyfgJJve_nAw/profile-displaybackgroundimage-shrink_350_1400/B4EZouUWlIHUAY-/0/1761713682738?e=1764201600&v=beta&t=DV2WDZsFiqidxT-Vgz5lheUN78cx2NCUTDM6pC00QDw">
 <h3 align="center">Web Specialist And Expert, Website Developer, WordPress Developer, Website Designer. Helping Businesses and Creators Build Stunning, Functional Websites | Passionate about turning Ideas into Digital Reality.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devretuha&label=Profile%20views&color=0e75b6&style=flat" alt="devretuha" /> </p>
